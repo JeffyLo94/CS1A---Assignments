@@ -1,0 +1,23 @@
+*****************************************************
+*  PROGRAMMED BY : Jeffrey Lo & Parker Grade
+*  CLASS         : CS1A
+*  SECTION       : TTh: 10:00a - 12:00p
+*  LAB #10c      : Input & Output - Geometry
+*****************************************************
+
+Enter the height of the triangle:   12.345
+Enter the base of the triangle:     15.23
+
+Enter the width of the rectangle:   17.32
+Enter the height of the rectangle:  25
+
+Enter the radius of the circle:     3.5
+
+
+     Triangle Area     Rectangle Area     Circle Area
+
+           94.0072                433         38.4845
+                94                433            38.5
+              94.0               433.            38.5
+            94.007            433.000          38.484
+          94.00717          433.00000        38.48448

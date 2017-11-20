@@ -1,0 +1,24 @@
+**************************************************************************
+*  PROGRAMMED BY : Jeffrey Lo
+*  CLASS         : CS1B
+*  SECTION       : M-Th 8am - 1pm
+*  Assignment #6 : Saddleback Bank - OOP
+**************************************************************************
+
+TRANSACTION    DATE         ACCT#   ACCT NAME                 AMOUNT        BALANCE   FROM ACCT#   FROM ACCT BAL
+-----------    ----------   ----    --------------------  -----------  -------------  ------------ --------------- 
+Open Svings    04/01/2012   1212    Nery Chapeton-Lamas   $      0.00  $      300.00
+Open Ckings    04/01/2012   2323    Jennifer Kim          $      0.00  $       50.00
+Open MM        04/01/2012   3434    Shannon Alfaro        $      0.00  $      100.00
+Deposit        05/01/2012   1212    Nery Chapeton-Lamas   $    100.00  $      430.00
+Deposit        05/01/2012   2323    Jennifer Kim          $    100.00  $      150.00
+Deposit        05/01/2012   3434    Shannon Alfaro        $    100.00  $      220.00
+Withdrawal     06/01/2012   1212    Nery Chapeton-Lamas   $    200.00  $      273.00
+Withdrawal     06/01/2012   2323    Jennifer Kim          $    200.00  $      -70.00
+Withdrawal     06/01/2012   3434    Shannon Alfaro        $     50.00  $      212.50
+Transfer       06/01/2012   1212    Nery Chapeton-Lamas   $     50.00  $      273.00         2323         -130.00
+**** TRANSFER FROM 2323 TO 1212 NOT ALLOWED! ****
+**** DUE TO INSUFFICEIENT FUNDS              ****
+Transfer       07/01/2012   2323    Jennifer Kim          $    100.00  $      -30.00         3434          153.50
+Transfer       07/01/2012   3434    Shannon Alfaro        $    300.00  $      453.50         1212            0.30
+Transfer       07/01/2012   3434    Shannon Alfaro        $    300.00  $      453.50         1212            0.30

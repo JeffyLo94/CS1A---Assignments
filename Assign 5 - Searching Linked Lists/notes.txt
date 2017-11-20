@@ -1,0 +1,45 @@
+Assignment Link:
+http://cs.saddleback.edu/michele/Teaching/CS1B/Assignments/AS5%20-%20Searching%20Linked%20Lists.pdf
+
+Text File for Project
+http://cs.saddleback.edu/michele/Teaching/CS1B/Assignments/AS5%20-%20BigInFile.txt
+
+Sample Output:
+http://cs.saddleback.edu/michele/Teaching/CS1B/Assignments/AS5%20-%20Sample%20Output%20File.pdf
+
+
+
+Modify assignment #4 as follows: 
+ 1 – allow the user to specify an output file (as well as the input file). Allow the user the option 
+ 	to use a default file. 
+ 2 – Display a menu (see the screen output for specifics) -> loop until the user enters 0. 
+ 3 – the user should be able to output the entire list (like in Assignment #6, except the format 
+ 	for the output has changed) -> write a function that outputs one line at a time. 
+ 4 – the user should be able to search for a movie by title. 
+ 	The title should output all the information about the movie formatted like Assignment #6. 
+ 	Be sure to incorporate a word wrap function. 
+	-> See the sample output file. 
+ 5 – the user should be able to search for a movie by genre, actor, rating or year. 
+ 	All of these searches will be formatted similarly -> see the output file for an example. 
+	-> For genre, the search should output all the movies that have that genre specified for 
+		either the genre or the alternate genre. 
+	-> For actor, the search should output all of the movies that have the actor appear either 
+		in a leading or supporting role. 
+	-> For year, the search should output all movies that were released that year. 
+
+Other requirements 
+- USE AN ENUMERATED TYPE FOR THE MENU OPTIONS. 
+- The searches should be performed using one search function. 
+- Use appropriate types within the struct (i.e. year and rating should be numerical values -> 
+	not strings). 
+- Use appropriate selection statements to specify the different code segments based on the 
+	menu option selected. 
+- You will need to add several functions for this assignment – be sure you are using functions 
+	properly -> keep them small! Print Heading should output to the screen and the file. 
+ 
+Some suggestions: 
+- Code Incrementally 
+	-> Coding will be easier if you code 1 function at a time 
+	->and test each function when you complete it. 
+- Use detailed cout statements or the debugger in eclipse to trace variables. 
+- You may want to start testing with the smaller input file provided for assignment #4. 

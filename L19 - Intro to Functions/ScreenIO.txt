@@ -1,0 +1,36 @@
+*******************************************************************
+* PROGRAMMED BY : Jordan Carnaggio & Jeffrey Lo
+* CLASS         : CS1A
+* SECTION       : TTH: 10:00a - 11:50a
+* LAB #19       : Intro to Functions
+*******************************************************************
+
+To end this program enter -999
+Enter the first value:  3
+Enter the second value: 6
+
+The SUM is:          9
+The PRODUCT is:     18
+The LARGEST is:      6
+The AVERAGE is:    4.5
+
+
+Enter the first value:  -6
+Enter the second value: 10
+
+The SUM is:          4
+The PRODUCT is:    -60
+The LARGEST is:     10
+The AVERAGE is:      2
+
+
+Enter the first value:  100
+Enter the second value: 50
+
+The SUM is:        150
+The PRODUCT is:   5000
+The LARGEST is:    100
+The AVERAGE is:     75
+
+
+Enter the first value:  -999

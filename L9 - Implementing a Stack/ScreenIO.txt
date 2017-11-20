@@ -1,0 +1,189 @@
+******************************************************
+*  PROGRAMMED BY : Duncan Bauer && Jeffrey Lo
+*  STUDENT ID    : 290722 && 374780
+*  CLASS         : CS1B
+*  SECTION       : M-Th: 8:00a - 1:00p
+*  LAB #8        : Implementing a Stack
+******************************************************
+
+STACK MENU
+1 - Add a person (PUSH)
+2 - Remove a person (POP)
+3 - Is the stack empty? (ISEMPTY)
+4 - Who is on top? (PEEK)
+5 - How many people are there? (SIZE)
+6 - Output stack
+0 - to Exit
+Enter a command? 1
+
+Who would you like to add?
+Enter Name:   Joe Smith
+Enter Gender: M
+Enter Age:    32
+
+<redisplay menu>
+Enter a command? 1
+
+Who would you like to add?
+Enter Name:   Grace Hopper
+Enter Gender: F
+Enter Age:    69
+
+<redisplay menu>
+Enter a command? 4
+
+PEEKING at
+Name:   Grace Hopper
+Gender: F
+Age:    69
+
+<redisplay menu>
+Enter a command? 5
+
+There are 2 people on the stack.
+
+<redisplay menu>
+Enter a command? 1
+
+Who would you like to add?
+Enter Name:   Ada Lovelace
+Enter Gender: F
+Enter Age:    52
+
+<redisplay menu>
+Enter a command? 4
+
+PEEKING at
+Name:   Ada Lovelace
+Gender: F
+Age:    52
+
+<redisplay menu>
+Enter a command? 3
+
+The stack is NOT empty.
+
+<redisplay menu>
+Enter a command? 2
+
+POPPING
+Name:   Ada Lovelace
+Gender: F
+Age:    52
+
+<redisplay menu>
+Enter a command? 1
+
+Who would you like to add?
+Enter Name:   Charles Babbage
+Enter Gender: N
+Please enter M or F!
+Enter Gender: M
+Enter Age:    25
+
+<redisplay menu>
+Enter a command? 4
+
+PEEKING at
+Name:   Charles Babbage
+Gender: M
+Age:    25
+
+<redisplay menu>
+Enter a command? 5
+
+There are 3 people on the stack.
+
+<redisplay menu>
+Enter a command? 2
+
+POPPING
+Name:   Charles Babbage
+Gender: M
+Age:    25
+
+<redisplay menu>
+Enter a command? 5
+
+There are 2 people on the stack.
+
+<redisplay menu>
+Enter a command? 4
+
+PEEKING at
+Name:   Grace Hopper
+Gender: F
+Age:    69
+
+<redisplay menu>
+Enter a command? 2
+
+POPPING
+Name:   Grace Hopper
+Gender: F
+Age:    69
+
+<redisplay menu>
+Enter a command? 5
+
+There is one person on the stack.
+
+<redisplay menu>
+Enter a command? 3
+
+The stack is NOT empty.
+
+<redisplay menu>
+Enter a command? 4
+
+PEEKING at
+Name:   Joe Smith
+Gender: M
+Age:    32
+
+<redisplay menu>
+Enter a command? 2
+
+POPPING
+Name:   Joe Smith
+Gender: M
+Age:    32
+
+<redisplay menu>
+Enter a command? 5
+
+Nobody is on the stack!
+
+<redisplay menu>
+Enter a command? 2
+
+Can't POP from an empty stack!
+
+<redisplay menu>
+Enter a command? 3
+
+Yes, the stack is empty.
+
+<redisplay menu>
+Enter a command? 4
+
+There is nobody to PEEK at!!
+
+<redisplay menu>
+Enter a command? -1
+
+**** The number -1 is an invalid entry     ****
+**** Please input a number between 0 and 6 ****
+
+<redisplay menu>
+Enter a command? 6
+
+There is nobody in the stack.
+
+<redisplay menu>
+Enter a command? abc
+
+**** Please input a NUMBER between 0 and 6 ****
+
+<redisplay menu>
+Enter a command? 0

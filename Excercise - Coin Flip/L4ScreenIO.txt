@@ -1,0 +1,44 @@
+*****************************************************
+*  PROGRAMMED BY : Jeffrey Lo & John Zavala
+*  CLASS         : CS1B
+*  SECTION       : M-Th: 8:00a - 1:50p
+*  LAB #4        : Coin Flips Exercise
+*****************************************************
+
+Welcome to coin toss! Get 3 heads in a row to win!
+What is your name?         Jeffrey Lo
+What is your gender (m/f): x
+** INVALID INPUT - Please input 'M' or 'F' **
+What is your gender (m/f): m
+
+Try to get 3 heads in a row. Good luck Jeffrey!
+
+Press <enter> to flip
+HEADS
+
+Press <enter> to flip
+HEADS
+
+Press <enter> to flip
+TAILS
+
+Press <enter> to flip
+HEADS
+
+Press <enter> to flip
+TAILS
+
+Press <enter> to flip
+TAILS
+
+Press <enter> to flip
+HEADS
+
+Press <enter> to flip
+HEADS
+
+Press <enter> to flip
+HEADS
+
+It took you 9 tosses to get 3 heads in a row.
+On average you flipped heads 67% of the time

@@ -1,0 +1,14 @@
+Pig
+Babe
+2
+10240.67
+
+Sheep
+Maa
+3
+16520.35
+
+Sheep
+Fluffy
+1
+15000.00

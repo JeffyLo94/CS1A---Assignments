@@ -1,0 +1,131 @@
+**************************************************
+* Programmed by : Anthony Ramirez & Jeffrey Lo
+* Student ID    : 369397 & 374780
+* CS1B          : M-Th 8am - 1pm
+* LAB #13       : Inheritance, Overloading, Overriding
+**************************************************
+1 - Initialize Animals
+0 - Exit
+Enter selection: 1
+
+Initializing Maa, BaaBaa, Babe, and Wilbur...
+
+1 - Initialize Sheep
+2 - Initialize Pigs
+3 - Change Age
+4 - Change Value
+5 - Display
+0 - Exit
+Enter selection: 1
+
+Are you sure you want to  reinitialize (Y/N)? y
+
+Initializing Maa & BaaBaa...
+
+1 - Initialize Sheep
+2 - Initialize Pigs
+3 - Change Age
+4 - Change Value
+5 - Display
+0 - Exit
+Enter selection: 2
+
+Are you sure you want to  reinitialize (Y/N)? y
+
+Initializing Babe & Wilbur...
+
+1 - Initialize Sheep
+2 - Initialize Pigs
+3 - Change Age
+4 - Change Value
+5 - Display
+0 - Exit
+Enter selection: 3
+
+CHANGE AGE:
+1 - Maa
+2 - BaaBaa
+3 - Babe
+4 - Wilbur
+Select the animal you'd like to change: 1
+
+NEW AGE: 8
+
+Changing the age of Maa to 8...
+
+1 - Initialize Sheep
+2 - Initialize Pigs
+3 - Change Age
+4 - Change Value
+5 - Display
+0 - Exit
+Enter selection: 5
+
+
+SHEEP:
+NAME       AGE VALUE      WOOL TYPE          WOOL COLOR   
+---------- --- --------- ------------------ -------------
+Maa         8    1652.58 Carpet             White        
+BaaBaa      3   15000.00 Medium             Black        
+
+PIGS: 
+NAME       AGE VALUE      TAIL TYPE          
+---------- --- --------- ------------------
+Babe        2   85000.00 Corkscrew          
+Wilbur      5   21562.20 Curl Up            
+
+1 - Initialize Sheep
+2 - Initialize Pigs
+3 - Change Age
+4 - Change Value
+5 - Display
+0 - Exit
+Enter selection: 4
+
+CHANGE VALUE:
+1 - Maa
+2 - BaaBaa
+3 - Babe
+4 - Wilbur
+Select the animal you'd like to change: 4
+
+NEW VALUE: 890000
+
+**** The number 890000 is an invalid entry      ****
+**** Please input a number between 0 and 400000 ****
+
+NEW VALUE: 89000
+
+
+Changing the value of Wilbur to 89000.00...
+
+1 - Initialize Sheep
+2 - Initialize Pigs
+3 - Change Age
+4 - Change Value
+5 - Display
+0 - Exit
+Enter selection: 5
+
+
+SHEEP:
+NAME       AGE VALUE      WOOL TYPE          WOOL COLOR   
+---------- --- --------- ------------------ -------------
+Maa         8    1652.58 Carpet             White        
+BaaBaa      3   15000.00 Medium             Black        
+
+PIGS: 
+NAME       AGE VALUE      TAIL TYPE          
+---------- --- --------- ------------------
+Babe        2   85000.00 Corkscrew          
+Wilbur      5   89000.00 Curl Up            
+
+1 - Initialize Sheep
+2 - Initialize Pigs
+3 - Change Age
+4 - Change Value
+5 - Display
+0 - Exit
+Enter selection: 0
+
+Thanks for using my program! :)

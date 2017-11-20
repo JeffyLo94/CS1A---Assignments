@@ -1,0 +1,15 @@
+*****************************************************
+*  Programmed By  : Jeffrey Lo
+*  Student ID     : 374780
+*  CLASS          : CS1A -- TTh - 10-12p
+*  Assignment #10 : Parallel Arrays
+*****************************************************
+
+ID #     NAME                     BALANCE DUE
+----     --------------------     -----------
+1002     Steve Woolston           $   1423.20
+1008     Chris Carroll            $     32.36
+1007     Pete McBride             $    500.32
+1001     Jean Rousseau            $     15.50
+
+             Average Balance Due: $    492.84

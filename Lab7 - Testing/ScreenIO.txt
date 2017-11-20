@@ -1,0 +1,71 @@
+*****************************************************
+*  PROGRAMMED BY : Jeffrey Lo
+*  CLASS         : CS1B
+*  SECTION       : M-Th 8a
+*  Lab #7        : Testing
+*****************************************************
+
+TEST DRIVERS:
+Testing CalcFourBarsPerSheep, numBars = 8.0, totSheep = 2 : 2
+
+Testing CalcSheepLeft, totSheep = 12, sheepWithFour = 4 : 8
+
+Testing CalcBarsLeft, totBars = 20.0, sheepWithFour = 5 : 0
+
+Would you like to use (Y or N)? y
+Enter the number of sheep: 1
+Enter the number of bars: 4
+
+1 Sheep get 4 chocolate bars.
+There are 0 chocolate bars left over.
+
+Would you like to run again (Y or N)? y
+Enter the number of sheep: 0
+Enter the number of bars: 0
+
+0 Sheep get 4 chocolate bars.
+There are 0 chocolate bars left over.
+
+Would you like to run again (Y or N)? y
+Enter the number of sheep: 80
+Enter the number of bars: 20
+
+5 Sheep get 4 chocolate bars.
+75 Sheep get 0 chocolate bars.
+There are 0 chocolate bars left over.
+
+Would you like to run again (Y or N)? y
+Enter the number of sheep: 5
+Enter the number of bars: 20.5
+
+5 Sheep get 4 chocolate bars.
+There are 0.5 chocolate bars left over.
+
+Would you like to run again (Y or N)? y
+Enter the number of sheep: 5
+Enter the number of bars: 5.5
+
+1 Sheep get 4 chocolate bars.
+1 Sheep gets 1.5 chocolate bars.
+3 Sheep get 0 chocolate bars.
+
+Would you like to run again (Y or N)? y
+Enter the number of sheep: 10
+Enter the number of bars: 1000000
+
+10 Sheep get 4 chocolate bars.
+There are 999960 chocolate bars left over.
+
+Would you like to run again (Y or N)? y
+Enter the number of sheep: -1
+** ERROR - Sheep input can't be negative **
+Enter the number of sheep: 6.2
+Enter the number of bars: -20
+** ERROR - Chocolate Bars input can't be negative **
+Enter the number of bars: 8
+
+2 Sheep get 4 chocolate bars.
+4 Sheep get 0 chocolate bars.
+There are 0 chocolate bars left over.
+
+Would you like to run again (Y or N)? n
